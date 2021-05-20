@@ -17,9 +17,9 @@ print(output)
 
 ## Output
 
-["This is a very simple sentence.",
- "Thank you."
-]
+```
+["This is a very simple sentence.", "Thank you."]
+```
 
 #### Reference
 
